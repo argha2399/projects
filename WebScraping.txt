@@ -1,0 +1,1 @@
+Extracts the first 100 search results from the google query 'domain name availability' with the Title and Metadata and inserts into MySQL databases on local system.
